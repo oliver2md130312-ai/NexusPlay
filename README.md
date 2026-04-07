@@ -1,6 +1,6 @@
 # 🎵 NexusPlay — Multimedia Hub 🎥 🖼️
 
-[![Versión](https://img.shields.io/github/v/release/oliver2md130312-ai/NexusPlay?style=for-the-badge&color=blue)](https://github.com/oliver130312-ai/NexusPlay/releases/latest)
+[![Versión](https://img.shields.io/github/v/release/oliver2md130312-ai/NexusPlay?style=for-the-badge&color=blue)](https://github.com/oliver2md130312-ai/NexusPlay/releases/latest)
 [![Descargar NexusPlay](https://img.shields.io/badge/Descargar-Instalador%20EXE-green?style=for-the-badge&logo=windows)](https://github.com/oliver2md130312-ai/NexusPlay/releases/latest)
 
 **NexusPlay** es un reproductor multimedia integral diseñado específicamente para el ecosistema de Windows. Ofrece una solución única, ligera y elegante para gestionar y disfrutar de toda tu biblioteca de música, fotos y videos desde una sola interfaz centralizada.
